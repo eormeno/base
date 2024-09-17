@@ -15,7 +15,7 @@ The `.env` file is used to store environment variables for the project. It is us
 - Edit the `.env` file and set the environment variables.
 
 ```bash
-/src$ cp .env.example .env # (or copy .env.example .env in Windows)
+/src$ cp .env.example .env
 ```
 
 Then edit the `.env` file and set the environment variables.
@@ -47,7 +47,7 @@ Open a terminal in the `src` folder and run the following commands to install th
 ```
 - Install the Node.js dependencies.
 ```bash
-/src$ npm install
+/src$ npm i
 ```
 
 ### Running the project
